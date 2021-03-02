@@ -19,7 +19,7 @@
 14.git remote -v // 查看
 15.git remote remove origin //删除origin
 16.git push -u origin master //master分支 
-
+17.git clone github.com/wei-rh/....  // 远程创建本地库
 
 ```
 
