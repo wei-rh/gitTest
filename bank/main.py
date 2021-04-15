@@ -4,6 +4,11 @@
 # hello world
 # second monkey2
 
+
+# WRH add 第一句
+
+
+
 from view import View
 from bank import Bank
 
